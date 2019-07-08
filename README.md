@@ -1,3 +1,6 @@
+To run the app in SSR mode just run `npm run start:ssr`
+___
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
